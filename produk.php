@@ -52,7 +52,7 @@
 <body>
     <h3>Daftar produk</h3>
 
-    <div class="bungkus-produk">
+    <div id="bungkus-produk">
 
         <?php for($i = 0; $i < count($produk); $i++){ ?>
 

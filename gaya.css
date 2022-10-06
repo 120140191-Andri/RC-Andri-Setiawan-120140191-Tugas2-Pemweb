@@ -21,7 +21,7 @@ h3{
     clear: both;
 }
 
-.bungkus-produk{
+#bungkus-produk{
     margin: 0 auto;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
